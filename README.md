@@ -8,7 +8,8 @@ Problem Description:Generate a simple program to scan a file against our  API. O
 3. If results found then skip to 6.  
 4. If results not found then upload the file, receive a data_id.  
 5. Repeatedly poll on the data_id to retrieve results.  
-6. Display results in format belowYou should also have some basic error handling for common HTTP results, but its not necessary to account for every idiosyncrasy of our API. You can show any errors to the standard error and exit the application.  
+6. Display results in format below  
+You should also have some basic error handling for common HTTP results, but its not necessary to account for every idiosyncrasy of our API. You can show any errors to the standard error and exit the application.   
 
 # Run Program
 
