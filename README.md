@@ -12,9 +12,10 @@ Problem Description:Generate a simple program to scan a file against our  API. O
 
 # Run Program
 
-Install python 3  
-Put test file in directory  
+- Install python 3  
+- Put test file in directory  
 
-Command: python3 scan_file.py -f test.txt -k "INSERT YOUR APIKKEY(delete quotes)"  
+Enter command:   
+  - python3 scan_file.py -f test.txt -k "INSERT YOUR APIKKEY(delete quotes)"  
 
 
