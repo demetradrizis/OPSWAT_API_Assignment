@@ -14,9 +14,9 @@ You should also have some basic error handling for common HTTP results, but its 
 # Run Program
 
 - Install python 3  
-- Put test file in directory  
+- Put test file in OPSWAT directory  
 
 Enter command:   
-  - python3 scan_file.py -f test.txt -k "INSERT YOUR APIKKEY(delete quotes)"  
+  - python3 scan_file.py -f test.txt -k "INSERT YOUR APIKKEY(delete quotes)"
 
 
