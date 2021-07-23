@@ -18,7 +18,11 @@ You should also have some basic error handling for common HTTP results, but its 
 - Put test file in OPSWAT directory  
 
 # Enter command:  
-- python3 scan_file.py -f "INSERT FILE HERE" -k "INSERT YOUR APIKEY"  
-- ex: python3 solution.py -f test.txt -k a166c3fb8be911b1d46179711037789e  
+- On Linux/macOS  
+    - python3 opswat_metadefender.py -f "INSERT FILE HERE" -k "INSERT YOUR APIKEY"  
+    - ex: python3 opswat_metadefender.py -f test.txt -k a166c3fb8be911b1d46179711037789e  
+- On Windows
+     - py opswat_metadefender.py -f "INSERT FILE HERE" -k "INSERT YOUR APIKEY"
+     - ex: python opswat_metadefender.py -f test.txt -k a166c3fb8be911b1d46179711037789e
 
 
