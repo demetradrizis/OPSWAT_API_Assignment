@@ -14,9 +14,10 @@ You should also have some basic error handling for common HTTP results, but its 
 # Run Program
 
 - Install python 3  
+- cd into OPSWAT  
 - Put test file in OPSWAT directory  
 
-- Enter command:  
+# Enter command:  
               - python3 scan_file.py -f "INSERT FILE HERE" -k "INSERT YOUR APIKKEY"  
               - ex: python3 solution.py -f test.txt -k a166c3fb8be911b1d46179711037789e  
 
