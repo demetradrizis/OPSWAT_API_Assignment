@@ -6,8 +6,6 @@ import argparse
 import requests
 import hashlib
 from pip._vendor import requests
-import hashlib
-import sys
 import json
 import time
 
