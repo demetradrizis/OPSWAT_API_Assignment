@@ -1,6 +1,6 @@
 # OPSWAT_API_Assignment
 
-Problem Description:Generate a simple program to scan a file against our  API. OPSWAT online help contains details of our publicly metadefender.opswat.comavailable API along with sample code that shows how to scan a file. However, it is costly to multi-scan a file so we would like you to implement a hash lookup prior to deciding to upload a file, either way you should retrieve results and display them. Please read through the documentation and sample code found at https://onlinehelp.opswat.com/mdcloud/3._Public_APIs.html to perform the following logic.
+Problem Description: Generate a simple program to scan a file against our  API. OPSWAT online help contains details of our publicly metadefender.opswat.comavailable API along with sample code that shows how to scan a file. However, it is costly to multi-scan a file so we would like you to implement a hash lookup prior to deciding to upload a file, either way you should retrieve results and display them. Please read through the documentation and sample code found at https://onlinehelp.opswat.com/mdcloud/3._Public_APIs.html to perform the following logic.
 
 1. Calculate the hash of the given samplefile.txtNo samplefile is provided, you may use any files you choose up to 140Mb.  
                 a. No samplefile is provided, you may use any files you choose up to 140Mb.  
